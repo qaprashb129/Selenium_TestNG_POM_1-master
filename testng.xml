@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/RIB Automation/Selenium Automation/Selenium_TestNG_POM_1-master">
+        <classes>
+
+        <class name="LoginTest"/>
+       <!-- <class name="CCS_Connect_SmokeTestSuite.T12_Vendor_ManagementTest"/>
+        <class name="CCS_Connect_SmokeTestSuite.T14_Create_eRFQTest"/>
+        <class name="CCS_Connect_SmokeTestSuite.T15_eRFQRequestsTest"/>
+        <class name="CCS_Connect_SmokeTestSuite.T17_VendorSubmissionListTest"/>
+        <class name="CCS_Connect_SmokeTestSuite.T18_QuoteCompareTest"/>
+        <class name="CCS_ConnectScripts.Logout"/>-->
+
+        </classes>
+
+
+
+    </test>
+</suite>
