@@ -10,6 +10,8 @@ import java.util.List;
 public class LoginPagePageFactory {
     public WebDriver driver;
 
+    // NEW COMMENT ADDED FOR GIT UNSTAGE TO STAGE > COMMIT AND PUSH
+
     public LoginPagePageFactory(WebDriver driver)
     {
         this.driver = driver;
